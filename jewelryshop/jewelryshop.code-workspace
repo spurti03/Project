@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../media"
+		},
+		{
+			"path": "../myvenv"
+		},
+		{
+			"path": "../store"
+		},
+		{
+			"path": "../templates"
+		}
+	]
+}
